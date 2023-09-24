@@ -1,5 +1,5 @@
 
-# SkyScan - Weather Application
+# SkyScan
 
 SkyScan is a simple weather application built using Python's Tkinter library. It allows users to retrieve real-time weather information for a specified location.
 
